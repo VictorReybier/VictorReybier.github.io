@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/trombi", {data:[{}],fetch:{},mutations:[]});

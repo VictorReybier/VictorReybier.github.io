@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/oldregister", {data:[{}],fetch:{},mutations:[]});

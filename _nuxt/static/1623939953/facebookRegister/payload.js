@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/facebookRegister", {data:[{}],fetch:{},mutations:[]});
